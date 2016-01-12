@@ -1,0 +1,11 @@
+Repos should be named cs362w16_ONIDID
+
+Assignment 1 is due on Jan 25
+
+Assignment 2 is due on Feb 1
+
+Assignment 3 is due on Feb 15
+
+Assignment 4 is due on Feb 29
+
+Project is due on March 14
